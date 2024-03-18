@@ -1,0 +1,125 @@
+*{
+    padding: 0;
+    margin: 0 15px 0 10px;
+    box-sizing: border-box;
+    line-height: 1;
+}
+Header{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(19, 17, 17);
+    color: white;
+    padding: 40px 0 0 40px ;
+}
+ul{
+    display: flex;
+    justify-content: flex end;
+    margin: 0 30px 0 0 ;
+}
+ul li{
+    padding: 0 15px 0 0 ;
+    text-decoration: none;
+    list-style: none;
+}
+a{
+    color: white;
+    text-decoration: none;
+    list-style: none;
+}
+.BrandName{
+    margin: 0 800px 0 0 ;
+}
+span{
+    -webkit-text-fill-color:red;
+    padding: 0 10px 0 0 ;
+}
+.ContainerI{
+    width: 100%;
+    height: 500px;
+    background-color:rgb(48, 46, 46);
+    margin-top: 10px;
+    display: flex;
+    color: white;
+}
+.One{
+    width: 30%;
+    height: 400px ;
+    box-sizing: border-box;
+    border: 2px solid white;
+    margin: 3% 5% 0 5% ;
+    background-color: blue;
+    border-radius: 5%;
+}
+.Two{
+    width: 60%;
+    height: 450px;
+    box-sizing: border-box;
+    border: 2px solid white;
+    margin: 1% 5% 0 3%;
+    font-size: larger;
+    padding: 2% 1% 0 2%;
+}
+.ContainerII{
+    width: 100%;
+    height: 90px;
+    margin: 20px 25px 0 10px;
+    display: flex;
+    font-size: x-large;
+}
+.Three{
+    margin: .5% 15% 0 20%;
+}
+.Four{
+    margin: .5% 20% 0 5%
+}
+.Five{
+    margin: .5% 1% 0 5%;
+}
+.Zero{
+    text-align: center;
+    margin-top: 2% 0 5% 0 ;
+    font-size: xx-large;
+    font-weight: 600;
+}
+.ContainerIII{
+    width: 100%;
+    height: 400px;
+    margin: 20px 15px 35px 10px;
+    display: flex;
+    color: black;
+}
+.Six, .Seven, .Eight, .Nine {
+    width: 25% ;
+    margin: 55px 15px 45px 10px;
+    text-align: center;
+    border: 2px solid;
+}
+.ContainerIV{
+    width: 100%;
+    height: 400px;
+    margin: 20px 15px 35px 10px;
+    display: flex;
+    color: black;
+}
+.Ten, .Eleven, .Twelve, .Thirteen{
+    width: 25%;
+    margin: 55px 15px 45px 10px;
+    text-align: center;
+    border: 2px solid;
+}
+.ContainerV{
+    width: 100%;
+    height: 700px;
+    margin: 20px 25px 0 10px;
+    display: flex;
+}
+.Fourteen, .Fifteen,.Sixteen{
+    width: 30% ;
+    margin: 35px 50px 1% 10px;
+    border: 2px solid;
+}
+footer{
+    margin: 15px 0 5% 0;
+    font-size: x-large;
+    font-weight: 300;
+}
